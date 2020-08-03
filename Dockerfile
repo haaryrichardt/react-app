@@ -10,4 +10,4 @@ COPY . .
 
 RUN npm run --silent build
 
-CMD [ "npm", "run", "serve" ]
+CMD [ "npm", "run", "start" ]
